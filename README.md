@@ -1,5 +1,5 @@
 # Lantern
-科学上网工具
+科学上网工具，轻松就可以访问google、facebook等被墙的网站。
 
 # Usage
 下载lantern.exe.fbd文件，将.fbd后缀去掉，双击运行即可。可能360会阻止运行，要点击允许。

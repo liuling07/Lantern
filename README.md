@@ -4,6 +4,8 @@
 # Usage
 下载lantern.exe.fbd文件，将.fbd后缀去掉，双击运行即可。可能360会阻止运行，要点击允许。
 
+mac系统使用lantern-installer-beta.dmg，安装打开即可。
+
 如下图：
 ![image](https://github.com/liuling07/Lantern/raw/master/20151111215158.png)
 
